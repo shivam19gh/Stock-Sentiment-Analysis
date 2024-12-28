@@ -1,4 +1,4 @@
-                                                                                             # STOCK SENTIMENT ANALYSIS #
+               STOCK SENTIMENT ANALYSIS 
 
 This project focuses on analyzing stock market sentiment based on textual data such as news headlines. By combining Natural Language Processing (NLP) techniques and Machine Learning models, it predicts the sentiment of stock-related news and evaluates its potential impact on stock prices.
 
@@ -18,19 +18,13 @@ PROJECT WORKFLOW
 
 TECH STACK
 
-Programming Language: Python
+1) Programming Language: Python
 
-Libraries:
-Data Processing: Pandas, NumPy
-NLP: NLTK
-Vectorization: Scikit-learn (TF-IDF)
-Machine Learning: RandomForestClassifier
-Visualization: Matplotlib, Seaborn
+2) Libraries:
+a) Data Processing: Pandas, NumPy
+b) NLP: NLTK
+c) Vectorization: Scikit-learn (TF-IDF)
+d) Machine Learning: RandomForestClassifier
+e) Visualization: Matplotlib, Seaborn
 
 
-
-FUTURE IMPROVEMENTS
-
-Incorporate deep learning models like LSTMs or Transformers.
-Expand the dataset for better generalization.
-Add sentiment correlation with actual stock price movement.
